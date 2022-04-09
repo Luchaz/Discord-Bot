@@ -10,8 +10,7 @@
   
 ### Credits
   **Tbh, none helped me except me.**  
-  My Username: **Boujee#9310**  
-  My Server: **https://discord.gg/xTwAJNu**
+  My Username: **Luchaz#07701**  
 
 ### Questions
   **Q**: Ain't fs an API of Node?  
